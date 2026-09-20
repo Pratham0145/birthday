@@ -65,10 +65,12 @@ window.CONFIG = (function () {
     button: 'Look closer'
   };
 
-  /* --- last screen ------------------------------------------------------ */
+
+
+ /* --- last screen ------------------------------------------------------ */
   const FINAL = {
     title: 'Happy Birthday, Dummu',
-    line: 'Stay happy, keep smiling, and keep irritating me a little less.',
+    line: 'That was one little surprise from some very special little people. Stay happy, keep smiling, and keep irritating me a little less.',
     kannada: 'ಪ್ರತಿ ವರ್ಷಾನೂ ಹೀಗೇ ನಗ್ತಾ ಇರು ಗೊಬ್ಬಿ.',
     button: 'Start again'
   };

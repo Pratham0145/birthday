@@ -276,6 +276,10 @@ button { font: inherit; color: inherit; }
 
 body.zoom-open .back-btn, body.zoom-open .music-toggle { opacity: 0; pointer-events: none; }
 
+
+body[data-scene="kids"] .back-btn, body[data-scene="kids"] .music-toggle { opacity: 0; pointer-events: none; }
+
+
 /* ── 10. note popup ──────────────────────────────────────────────────────── */
 .note-card {
   position: fixed; inset: 0; z-index: 60;
